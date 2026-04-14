@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Presentación Personal</title>
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenido a mi espacio personal</h1>
+        <nav>
+            <ul>
+                <li><a href="#presentacion">Sobre mí</a></li>
+                <li><a href="#gustos">Lo que hago</a></li>
+                <li><a href="#favoritos">Mis favoritos</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="presentacion">
+            <article>
+                <img src="tu-foto.jpg" alt="Foto de perfil de [Tu Nombre]" width="150">
+                <h2>Presentación</h2>
+                <p>¡Hola! Soy [Tu Nombre]. Me apasiona explorar nuevas ideas y compartir mis intereses con el mundo. Aquí encontrarás un resumen de quién soy y las cosas que me inspiran cada día.</p>
+            </article>
+        </section>
+
+        <section id="gustos">
+            <article>
+                <h2>Cosas que me gustan hacer</h2>
+                <ul>
+                    <li>Explorar nuevas tecnologías y herramientas digitales.</li>
+                    <li>Pasar tiempo de calidad descubriendo nuevas historias.</li>
+                    <li>Escuchar música y descubrir nuevos géneros.</li>
+                    <li>[Agrega aquí otra actividad que disfrutes]</li>
+                </ul>
+            </article>
+        </section>
+
+        <section id="favoritos">
+            <article>
+                <h2>Mis Favoritos</h2>
+                
+                <h3>Series</h3>
+                <ul>
+                    <li>Jujutsu Kaisen</li>
+                    <li>Dr. House</li>
+                </ul>
+
+                <h3>Películas</h3>
+                <ul>
+                    <li>Todos los perros van al cielo</li>
+                    <li>La tumba de las luciérnagas</li>
+                </ul>
+
+                <h3>Música (Bandas y Cantantes)</h3>
+                <ul>
+                    <li>Blackpink</li>
+                    <li>Three Days Grace</li>
+                    <li>Melanie Martinez</li>
+                </ul>
+            </article>
+        </section>
+    </main>
+
+    <footer id="contacto">
+        <article>
+            <h2>Contacto</h2>
+            <p>© 2026 - Creado por [Tu Nombre]</p>
+            </article>
+    </footer>
+
+</body>
+</html>
